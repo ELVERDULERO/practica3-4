@@ -7,3 +7,5 @@ API - [values.js](https://noeldelgado.github.io/values.js/)
 
 
 Live URL deployed [here](https://colorshadess-generator.netlify.app/).
+
+[![DOI](https://zenodo.org/badge/722174609.svg)](https://zenodo.org/doi/10.5281/zenodo.10651679)
